@@ -13,6 +13,7 @@ function sumOfNumbers(numbers){
         sum = sum + number;
         console.log("print sum", sum);
         console.log("print sum", sum);
+        console.log("print sum", sum);
         // console.log(sum);
     }
     return sum;
