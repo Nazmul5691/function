@@ -14,6 +14,7 @@ function sumOfNumbers(numbers){
         console.log("print sum", sum);
         console.log("print sum", sum);
         console.log("print sum", sum);
+        console.log("print sum", sum);
         // console.log(sum);
     }
     return sum;
